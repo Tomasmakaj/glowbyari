@@ -20,17 +20,16 @@
 
 .hero .content {
     height:100%;
+    padding-left: 5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    max-width: 800px;
     margin: auto;
-    padding: 1rem;
 }
 
 .hero p {
-    font-size: medium;
+    font-size: x-large;
     text-transform: capitalize;
     color: rgb(232, 168, 65);
     margin-top: 20rem;
