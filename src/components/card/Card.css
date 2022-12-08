@@ -5,3 +5,16 @@
     border-radius: 5px; /* 5px rounded corners */
     background-color: white;
   }
+
+
+
+
+
+
+
+  @media screen and (max-width: 940px) {
+    .card {
+         display: block;
+     }
+ }
+ 

@@ -29,15 +29,20 @@
 }
 
 .hero p {
-    font-size: x-large;
+    font-size: large;
     text-transform: capitalize;
     color: rgb(232, 168, 65);
-    margin-top: 20rem;
+    margin-top: 13rem;
+    padding-left: 7rem;
 }
 
 @media screen and (max-width: 940px) {
-    .hero {
+    .hero  {
         height: 70vh;
+    }
+
+    p {
+        height: 25vh;
     }
 
     .hero h1 {
